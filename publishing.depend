@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1587711536 source:c:\users\Саша\desktop\publishing\book.cpp
+	"book.h"
+
+1587711166 source:c:\users\Саша\desktop\publishing\jornal.cpp
+	"jornal.h"
+
+1587711689 source:c:\users\Саша\desktop\publishing\main.cpp
+	<iostream>
+	"Izdanie.h"
+	"jornal.h"
+	"book.h"
+	"newspaper.h"
+	<string>
+
+1587711660 source:c:\users\Саша\desktop\publishing\newspaper.cpp
+	"newspaper.h"
+
+1587710213 source:c:\users\Саша\desktop\publishing\izdanie.cpp
+	"izdanie.h"
+
+1587710089 c:\users\Саша\desktop\publishing\izdanie.h
+	<iostream>
+	<string>
+
+1587711037 c:\users\Саша\desktop\publishing\jornal.h
+	"izdanie.h"
+
+1587711532 c:\users\Саша\desktop\publishing\newspaper.h
+	"izdanie.h"
+
+1587711037 c:\users\Саша\desktop\publishing\book.h
+	"izdanie.h"
+
+1587763234 source:f:\program files\codeblocks\Работы\publishing\book.cpp
+	"book.h"
+
+1587763234 f:\program files\codeblocks\Работы\publishing\book.h
+	"izdanie.h"
+
+1587763234 f:\program files\codeblocks\Работы\publishing\izdanie.h
+	<iostream>
+	<string>
+
+1587763241 source:f:\program files\codeblocks\Работы\publishing\izdanie.cpp
+	"izdanie.h"
+
+1587763017 source:f:\program files\codeblocks\Работы\publishing\jornal.cpp
+	"jornal.h"
+
+1587763003 f:\program files\codeblocks\Работы\publishing\jornal.h
+	"izdanie.h"
+
+1587763234 source:f:\program files\codeblocks\Работы\publishing\newspaper.cpp
+	"newspaper.h"
+
+1587763234 f:\program files\codeblocks\Работы\publishing\newspaper.h
+	"izdanie.h"
+
+1587764014 source:f:\program files\codeblocks\Работы\publishing\main.cpp
+	<iostream>
+	"Izdanie.h"
+	"journal.h"
+	"book.h"
+	"newspaper.h"
+	<string>
+
+1587764014 source:f:\program files\codeblocks\Работы\publishing\journal.cpp
+	"journal.h"
+
+1587764014 f:\program files\codeblocks\Работы\publishing\journal.h
+	"izdanie.h"
+
